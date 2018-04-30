@@ -1,1 +1,4 @@
-python local.py -c /etc/shadowsocks.json -d start
+python local.py -c /root/ssr/config.json -d start
+
+
+python local.py -c /root/ssr/config.json -d stop
