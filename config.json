@@ -1,5 +1,5 @@
 {
-    "server": "0.0.0.0",
+    "server": "104.194.78.105",
     "server_ipv6": "::",
     "server_port": 443,
     "local_address": "127.0.0.1",
